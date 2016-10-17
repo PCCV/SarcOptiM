@@ -7,6 +7,8 @@ University of Tours (France)
 Date : 2015/09/01 first version
 2016/05/26: add MultiCell mode
 
+Please visit http://pccv.univ-tours.fr/ImageJ/TTorg/ for more information
+
 Tested on ImageJ 1.49t (linux, Mac OS and Windows)
 
 Installation
