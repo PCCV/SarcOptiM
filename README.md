@@ -23,7 +23,7 @@ Installation
  
 Short user guide
 -----------------
- - See complete instructions at http://fg.tcplugins.free.fr/ImageJ/SarcOptiM/
+ - See complete instructions at http://pccv.univ-tours.fr/ImageJ/SarcOptiM/
  - Despite the fact that SarcOptiM can be used on entire image, using a simple line provides the best results.
 
 1 - Setup
