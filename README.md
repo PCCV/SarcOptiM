@@ -4,7 +4,9 @@ Plugins and toolbars for ImageJ
 Côme PASQUALIN - François GANNIER (gannier at univ-tours dot fr) 
 University of Tours (France)
 
-Date : 2015/09/01
+Date : 2015/09/01 first version
+2016/05/26: add MultiCell mode
+
 Tested on ImageJ 1.49t (linux, Mac OS and Windows)
 
 Installation
